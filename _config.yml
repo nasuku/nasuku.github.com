@@ -2,10 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://nasuku.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+# url: http://nasuku.github.com
+url: http://blog.nalluru.com
+title: Blog of Suresh Kumar Nalluru
+subtitle: This site does not have subtitle :)
+author: Suresh Nalluru
 simple_search: http://google.com/search
 description:
 
